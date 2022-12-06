@@ -1,18 +1,21 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 30%" />
 </div>  
   
 
-## <div align="center">Sou o Renato, sou front-end 🚀</div>  
+# <div align="center">Sou o Renato, Front-end 🚀</div>  
   
 ### Feliz em te ver por aqui!  
  
 
 <br/>  
-  
-
+ Olá, sou o Renato G Lima! Apaixonado por pessoas e por tecnologia e refatorando minha vida aos 32 anos. 
 <br/>  
+Depois de 15 anos no mercado comercial aperfeiçoando minhas softs skills, decidi recalcular minha rota e focar em um projeto antigo da minha vida, trabalhar com programação e aprofundar na área de tecnologia.
+<br>
+Sou determinado, comunicativo, empático, organizado, colaborativo, amo resolver problemas e estudo diariamente para resolver problemas de forma criativa.
 
+<br>
 
 ## Minhas Skills  
 <table><tr><td valign="top" width="33%">
