@@ -94,7 +94,7 @@ Sou determinado, comunicativo, empático, organizado, colaborativo, amo resolver
 <br/>  
 
 
-## Meu Spotify  
+## Playlist do momento  
 <br/>  
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=12156942467&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true" /></div>  
